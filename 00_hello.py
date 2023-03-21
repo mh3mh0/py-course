@@ -20,4 +20,4 @@ print(type(7)) #type int
 print(type(7.6)) #type float
 print(type(True)) #type bool
 print(type(3 + 4j)) #type complex
-
+print(type(print('my chain of text'))) #type 'Nonetype'
