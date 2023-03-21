@@ -1,5 +1,6 @@
 '''
  arithmetical operators ------------------->
+
 '''
 print (3 + 4)
 print (3 - 4)
@@ -51,5 +52,3 @@ print(3 < 4 and 'hi' < 'Python') # &&
 print(3 < 4 or 'hi' > 'Python') # ||
 print(3 > 4 or 'hi' > 'Python') # ||
 print(not(3 > 4)) # (!=)
-
-
